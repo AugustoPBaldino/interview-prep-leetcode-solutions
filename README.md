@@ -1,2 +1,10 @@
-# interview-prep-leetcode-solutions
-Este repositório reúne minhas soluções para problemas do LeetCode, organizadas por categoria e nível de dificuldade, com foco em preparação para entrevistas técnicas.
+## interview-prep-leetcode-solutions
+
+## This repository contains my solutions to LeetCode problems, organized by category and difficulty level, with a focus on technical interview preparation.
+
+## This repository is organized as follows:
+
+🟢 Easy problems
+🟡 Medium problems
+🔴 Hard problems
+📂 Topics: categorized by data types and algorithmic strategies.
